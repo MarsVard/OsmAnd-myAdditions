@@ -12,7 +12,7 @@ For the prerequisites:
 
 The actual map creation:
 - Run the 01-download_convert_BE.sh bash shell script
-- Run the 02-convert_be_csv2osm.py
+- Run the 02-convert_be_csv2osm.py python script
 - Optionally convert the osm to an osm.pbf file "osmconvert Belgie-Vlaanderen_address.osm --out-pbf > Belgie-Vlaanderen_address.osm.pbf"
 - Create the Belgie-Vlaanderen_address.obf from OsmAndMapCreator, either from the Gui or the command line. 
 Note that you only need to create the address index and the map index.
