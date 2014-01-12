@@ -7,8 +7,6 @@
 # and later combine them 
 # Will work on the osm files created by the 02 script
 
-# Simply enter the numbers of countries here; can be one or a lot of countries
-#COUNTRIES="belgium british-isles france germany netherlands switzerland denmark norway sweden finland spain portugal"
 BASE_MAP="/opt/OpenStreetMap"
 
 cd $BASE_MAP/osm_files/workmap
