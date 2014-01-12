@@ -38,7 +38,7 @@ text_file = open('pre_belgium_europe_address.osm', 'w')
 text_file.write(filestring)
 text_file.close()
 
-# Do the merge of both files. This could be in one go (and that would be faster as well)
+# Do the merge of both files. This could be in one go (which would be faster as well)
 # But two steps give you the option to check the intermediate files
 filenames = ['belgium-vlaanderen-boundaries-modified.osm', 'pre_belgium_europe_address.osm']
 # As we have big files and don't want memory issues we do it line by line (even though that's also slower)
