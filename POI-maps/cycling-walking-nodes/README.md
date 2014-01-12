@@ -1,6 +1,6 @@
 How to create the cycling and walking nodes POI maps.
 
-version 01: Only working for Netherlands and Belgium
+version 01: Only working for the Netherlands and Belgium
 
 Note: This description is based on a Linux/Unix/BSD type of environment.
 
