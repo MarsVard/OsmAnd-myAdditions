@@ -2,6 +2,10 @@ How to create the België, Vlaanderen (Belgium Flanders) address map.
 
 Note: This description is based on a Linux/Unix/BSD type of environment.
 
+This map is based on the work done by Pieter Colpaert (https://github.com/pietercolpaert/crab-tools) who created address csv files based on the CRAB database for download (http://download.agiv.be/Producten/Detail?id=102&title=CRAB_adresposities).
+
+
+
 prerequisites: osmconvert, osmfilter, OsmAndMapCreator, python (default on a linux system)
 
 For the prerequisites:
