@@ -21,4 +21,6 @@ The actual map creation:
 - Create the Belgie-Vlaanderen_address.obf from OsmAndMapCreator, either from the Gui or the command line. 
 Note that you only need to create the address index and the map index.
 
-To be done: Use the Flanders polygon to make a derived map from Belgium. It will decrease the map size probably with 10-20MB (perhaps more) and it will prevent confusion. Cities outside Flanders will not be in the map and users can't get confused when searching on cities that don't contain streets at all. (Flanders poly already in place. Just waiting for feedback: are users interested or not)
+2014-01-13: 
+* Switched to the Flanders polygon to remove the Wallonie cities (as they don't have streets and addresses anyway).
+* switched from .zip to .7z (30% smaller)
